@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "TNR",
+    "packageName": "fr.erdf.linky",
+    "packageFolder": "fr/erdf/linky",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "5a5b7978aee0c8be70ed8b2d34c3cbe07ea38218"
+  }
+}
